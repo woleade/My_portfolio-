@@ -18,7 +18,7 @@ Machine Learning Models: Logistic Regression, Random Forest, SVM, XGBoost
 
 
 
-Project 2:Heart Disease Prediction 
+[Project 2:Heart Disease Prediction](https://github.com/woleade/My_portfolio-.git)
 
 Overview
 
