@@ -12,7 +12,7 @@ Programming Language: Python
 Libraries: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
 
 Machine Learning Models: Logistic Regression, Random Forest, SVM, XGBoost
-
+![Image](https://github.com/woleade/my_portfolio/https://github.com/woleade/My_portfolio-/blob/main/images%20(37)%20(1).png
 
 
 
