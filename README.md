@@ -1,4 +1,4 @@
-# My_portfolio
+I# My_portfolio
 
 
 [Project 1:Diabetes Prediction Using Machine Learning](https://github.com/woleade/My_portfolio-.git)
@@ -80,3 +80,6 @@ Random Forest Classifier
 Support Vector Machine (SVM)
 
 K-Nearest Neighbors (KNN)
+
+
+![ ](/main/images%20(33).jpeg)
