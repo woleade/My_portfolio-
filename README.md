@@ -82,4 +82,4 @@ Support Vector Machine (SVM)
 K-Nearest Neighbors (KNN)
 
 
-![ ](/main/images%20(33).jpeg)
+![](https://github.com/user-attachments/assets/de4835a9-bfa9-4c9d-ac50-7fd6d55e82d8)
