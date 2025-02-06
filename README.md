@@ -13,7 +13,8 @@ Libraries: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
 
 Machine Learning Models: Logistic Regression, Random Forest, SVM, XGBoost
 
-![](https://github.com/user-attachments/assets/de4835a9-bfa9-4c9d-ac50-7fd6d55e82d8)
+![](https://github.com/user-attachments/assets/d06f3fbc-2865-4ed7-ba31-f8c46a7776c7)
+
 
 
 
