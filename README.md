@@ -1,4 +1,4 @@
-I# My_portfolio
+  My_portfolio
 
 
 [Project 1:Diabetes Prediction Using Machine Learning](https://github.com/woleade/My_portfolio-.git)
@@ -84,3 +84,17 @@ K-Nearest Neighbors (KNN)
 
 
 ![](https://github.com/user-attachments/assets/de4835a9-bfa9-4c9d-ac50-7fd6d55e82d8)
+
+
+
+Project 3: Gold Price Prediction
+
+
+   Overview 
+   
+This project focuses on predicting gold prices using historical data and machine learning techniques. The model utilizes various economic indicators, including stock market indices, crude oil prices, and currency exchange rates, to forecast future gold prices.
+
+The dataset includes historical gold prices along with key economic indicators. It is sourced from financial databases such as Yahoo Finance, World Gold Council, or Kaggle.
+
+
+
