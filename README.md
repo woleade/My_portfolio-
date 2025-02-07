@@ -87,8 +87,7 @@ K-Nearest Neighbors (KNN)
 
 
 
-Project 3: Gold Price Prediction
-
+[Project 3: Gold Price Prediction](https://github.com/woleade/My_portfolio-.git)
 
    Overview 
    
