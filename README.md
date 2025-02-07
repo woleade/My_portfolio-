@@ -93,7 +93,9 @@ K-Nearest Neighbors (KNN)
    
 This project focuses on predicting gold prices using historical data and machine learning techniques. The model utilizes various economic indicators, including stock market indices, crude oil prices, and currency exchange rates, to forecast future gold prices.
 
-The dataset includes historical gold prices along with key economic indicators. It is sourced from financial databases such as Yahoo Finance, World Gold Council, or Kaggle.
+The dataset includes historical gold prices along with key economic indicators.
+
+![](https://github.com/user-attachments/assets/264af0dd-b1ed-44f7-98ad-6d4ddc2edfb5)
 
 
 
